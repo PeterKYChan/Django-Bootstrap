@@ -7,4 +7,6 @@ This is just a simple Django setup with few personal preferences to avoid setup 
 - Add some test files
 - Integrate userena  
     signin /accounts/signin  
-    signup /accounts/aignup  
+    signup /accounts/aignup 
+- Add jquery
+- Add normalize.css
